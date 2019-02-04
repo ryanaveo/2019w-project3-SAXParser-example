@@ -2,8 +2,8 @@
 
 ## Run the example
 
-`cd project3-SAXParser-example`
+`cd 2019w-project3-SAXParser-example`
 
 `mvn package`
 
-`java -cp target/project3-SAXParser-example-0.0.1-SNAPSHOT.jar SAXParserExample`
+`java -cp target/2019w-project3-SAXParser-example-0.0.1-SNAPSHOT.jar SAXParserExample`
